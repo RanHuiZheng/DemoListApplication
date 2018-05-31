@@ -1,0 +1,13 @@
+ext{
+    android=[
+            compileSdkVersion: 26,
+            buildToolsVersion: "26.0.2",
+            minSdkVersion:19,
+            targetSdkVersion: 16,
+            versionCode: 1,
+            versionName: "1.0"
+    ]
+    dependencies=[
+            retrofit2: 'com.squareup.retrofit2:retrofit:2.4.0'
+    ]
+}
