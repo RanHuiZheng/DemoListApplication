@@ -31,7 +31,9 @@
         <activity android:name=".demomoduls.rxjava_study.RxJavaOkGoActivity" />
         <activity android:name=".demomoduls.kotlinTest.LoginActivity" />
         <activity android:name=".demomoduls.rxjava_study.RxJavaRetrofitActivity" />
-        <activity android:name=".demomoduls.rxjava_study.Retrofit20.Retrofit240Activity"></activity>
+        <activity android:name=".demomoduls.rxjava_study.Retrofit20.Retrofit240Activity" />
+        <activity android:name=".demomoduls.table.MyTableActivity" />
+        <activity android:name=".demomoduls.createFileDemo.CreateJavaFileActivity"></activity>
     </application>
 
 </manifest>
