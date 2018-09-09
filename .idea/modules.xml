@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DemoListApplication.iml" filepath="$PROJECT_DIR$/DemoListApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCreateLib/JavaCreateLib.iml" filepath="$PROJECT_DIR$/JavaCreateLib/JavaCreateLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacreatelibs/javacreatelibs.iml" filepath="$PROJECT_DIR$/javacreatelibs/javacreatelibs.iml" />
     </modules>
   </component>
 </project>
